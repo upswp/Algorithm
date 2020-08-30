@@ -1,2 +1,3 @@
-# Permutation
+# Algorithm
 Permutation Algorithm
+Combination Algorithm
