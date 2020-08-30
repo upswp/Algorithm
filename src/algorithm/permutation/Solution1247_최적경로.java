@@ -1,7 +1,13 @@
-package algo.nPr;
+package algorithm.permutation;
 
 import java.util.Scanner;
-
+/**
+ * SWEA 1247
+ * 최적경로
+ * @author Park Sangwoo
+ * @use Permutation
+ * @since 2020-08-30
+ */
 public class Solution1247_최적경로 {
 
 	static int T, N, min;

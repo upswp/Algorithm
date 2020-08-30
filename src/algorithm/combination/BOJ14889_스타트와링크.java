@@ -1,8 +1,14 @@
-package algo.nCr;
+package algorithm.combination;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
-
+/**
+ * BOJ 14889
+ * 스타트와 링크
+ * @use Combination
+ * @author Park Sangwoo
+ * @since 2020-08-30
+ */
 public class BOJ14889_스타트와링크 {
 	static int N ,min;
 	static int [][] team;

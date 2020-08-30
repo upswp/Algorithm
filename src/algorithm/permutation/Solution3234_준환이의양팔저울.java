@@ -1,4 +1,4 @@
-package algo.nPr;
+package algorithm.permutation;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
@@ -11,9 +11,9 @@ import java.util.Scanner;
 /**
  * SSAFY SWEA 3234 준환이의 양팔저울
  * 
- * @use nPr
+ * @use Permutation
  * @author Park Sangwoo
- * @since 2020-08-29
+ * @since 2020-08-30
  */
 public class Solution3234_준환이의양팔저울 {
 

@@ -1,8 +1,14 @@
-package algo.nCr;
+package algorithm.combination;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
-
+/**
+ * SWEA 4012
+ * 요리사
+ * @author Park Sangwoo
+ * @use Combination
+ * @since 2020-08-30
+ */
 public class Solution4012_요리사 {
 	static int T, N, min;
 	static int[][] choice;
