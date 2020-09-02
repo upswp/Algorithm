@@ -1,4 +1,4 @@
-package simple_algorithm;
+package algorithm_silver;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
