@@ -3,7 +3,12 @@ package algorithm_silver;
 import java.util.LinkedList;
 import java.util.Queue;
 import java.util.Scanner;
-
+/**
+ * BOJ 1697 숨바꼭질
+ * @author Park Sangwoo
+ * @since 2020-09-02
+ * @use BFS
+ */
 public class BOJ1697_숨바꼭질3 {
 	static class Point {
 		int location;

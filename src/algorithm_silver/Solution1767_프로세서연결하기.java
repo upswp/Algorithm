@@ -3,7 +3,11 @@ package algorithm_silver;
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
-
+/**
+ * BOJ 1697 숨바꼭질
+ * @author Park Sangwoo
+ * @since 2020-09-02
+ */
 public class Solution1767_프로세서연결하기 {
 	static int T, N;
 	static int[][] metrix;
