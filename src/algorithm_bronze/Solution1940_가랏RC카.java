@@ -3,7 +3,11 @@ package algorithm_bronze;
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
-
+/**
+ * SWEA 1940 가랏 RC카!
+ * @author Park Sangwoo
+ * @since 2020-09-04
+ */
 public class Solution1940_가랏RC카 {
 
 	static int T, N;
