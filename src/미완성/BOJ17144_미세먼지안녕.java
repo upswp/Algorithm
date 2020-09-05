@@ -60,7 +60,7 @@ public class BOJ17144_미세먼지안녕 {
 			int right = map[c1.r][C-1];
 			
 			for(int i=C-1; i>0; i--) {
-				map[c1.r]
+//				map[c1.r]
 			}
 			
 			
