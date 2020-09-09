@@ -59,19 +59,58 @@ public class BOJ17144_미세먼지안녕 {
 			// 오른쪽으로 밀기
 			int right = map[c1.r][C-1];
 			
-			for(int i=C-1; i>0; i--) {
-//				map[c1.r]
+			for(int col=C-1; col>0; col--) {
+				map[c1.r][col] = map[c1.r][col-1];
 			}
+			map[c1.r][1] = 0; // 공기청정기 바로 오른쪽에 있는 먼지
 			
+			// 위로 밀기
+			// c1.r 위의 두 칸위까지만
+			int up = map[0][C-1]; // 위로 올렸을 때 사라질 애를
+			for(int row=0; row<c1.r-1; row++) {
+				map[row][C-1] = map[row+1][C-1];
+			}
+			map[c1.r-1][C-1] = right;
 			
+			// 왼쪽으로 밀기
+			int left = map[0][0];
+			for(int col=0; col<C-1; col++) {
+				map[0][col] = map[0][col+1]; // 뒤에있는애를 한칸씩 떙겨오는
+			}
+			map[0][C-2] = up;
 			
+			// 아래쪽으로 밀기
+			for(int row=c1.r-1; row > 0; row--) {
+				map[row][0] = map[row-1][0];
+			}
+			map[1][0] = left;
 			
+			// -1 0 1 2 3
+			// -1 -1 0 1 2
+			/* 아래쪽 공기청정기 시작 */
+			// 오른쪽으로 밀기
+			int right2 = map[c2.r][C-1];
+			for (int col = C-1; col > 0; col--) {
+				map[0][col] = map[0][col-1];
+			}
+			map[c2.r][1] =0;
 			
-			
-			
-			
-			
-			
+			//밑으로 밀기
+			/*
+			  0 1 2 3          0 0 1 2
+			        4				 2 				 
+			        5                4
+			        6				 5	
+			 */
+			/*
+			 0    왼쪽에서부터
+			 1    밀린값
+			 2    1
+			 3    2
+			 */
+			for (int row = R-1; row > c2.r; row++) {
+				map[row][C-1] = map[row-1][C-1];
+			}
 			
 		}
 	}
