@@ -1,0 +1,286 @@
+[2020-09-07 11:01:11] Launcher has been executed.
+[2020-09-07 11:01:11] Validation: Passed
+[2020-09-07 11:01:13] Launcher: Stage Mode Selected
+[2020-09-07 11:01:27] Authentication: teamid=PT00001286, teamkey=DBPP-JWGT-UYGU-LYNU
+[2020-09-07 11:01:28] HTTPResponse: OK
+[2020-09-07 11:01:28] Launcher: Enter Stage Mode
+[2020-09-07 11:01:28] Main: Stage Mode
+[2020-09-07 11:01:31] Play: Game Objects has been loaded.
+[2020-09-07 11:01:51] Main: Stage Mode
+[2020-09-07 11:01:52] Play: Game Objects has been loaded.
+[2020-09-07 11:02:46] Score Register: teamid=PT00001286, teamkey=DBPP-JWGT-UYGU-LYNU, score=50
+[2020-09-07 11:02:46] HTTPResponse: OK
+[2020-09-07 11:02:59] Main: Stage Mode
+[2020-09-07 11:03:03] Play: Game Objects has been loaded.
+[2020-09-07 11:03:51] Main: Stage Mode
+[2020-09-07 11:04:03] Play: Game Objects has been loaded.
+[2020-09-07 11:04:40] Main: Stage Mode
+[2020-09-07 11:04:41] Play: Game Objects has been loaded.
+[2020-09-07 11:04:56] Main: Stage Mode
+[2020-09-07 11:04:57] Play: Game Objects has been loaded.
+[2020-09-07 11:05:12] Main: Stage Mode
+[2020-09-07 11:05:13] Play: Game Objects has been loaded.
+[2020-09-07 11:06:06] Main: Stage Mode
+[2020-09-07 11:06:07] Play: Game Objects has been loaded.
+[2020-09-07 11:06:30] Main: Stage Mode
+[2020-09-07 11:06:39] Play: Game Objects has been loaded.
+[2020-09-07 11:06:45] Main: Stage Mode
+[2020-09-07 11:07:07] Play: Game Objects has been loaded.
+[2020-09-07 11:07:25] Main: Stage Mode
+[2020-09-07 11:07:25] Play: Game Objects has been loaded.
+[2020-09-07 11:07:39] Main: Stage Mode
+[2020-09-07 11:07:41] Play: Game Objects has been loaded.
+[2020-09-07 11:08:04] Score Register: teamid=PT00001286, teamkey=DBPP-JWGT-UYGU-LYNU, score=30
+[2020-09-07 11:08:05] HTTPResponse: OK
+[2020-09-07 11:08:09] Main: Stage Mode
+[2020-09-07 11:08:24] Play: Game Objects has been loaded.
+[2020-09-07 11:08:30] Main: Stage Mode
+[2020-09-07 11:08:32] Play: Game Objects has been loaded.
+[2020-09-07 11:08:54] Score Register: teamid=PT00001286, teamkey=DBPP-JWGT-UYGU-LYNU, score=45
+[2020-09-07 11:08:54] HTTPResponse: OK
+[2020-09-07 11:08:57] Main: Stage Mode
+[2020-09-07 11:09:04] Play: Game Objects has been loaded.
+[2020-09-07 11:09:24] Score Register: teamid=PT00001286, teamkey=DBPP-JWGT-UYGU-LYNU, score=45
+[2020-09-07 11:09:24] HTTPResponse: OK
+[2020-09-07 11:09:27] Main: Stage Mode
+[2020-09-07 11:10:18] Play: Game Objects has been loaded.
+[2020-09-07 11:10:34] Score Register: teamid=PT00001286, teamkey=DBPP-JWGT-UYGU-LYNU, score=45
+[2020-09-07 11:10:34] HTTPResponse: OK
+[2020-09-07 11:10:36] Main: Stage Mode
+[2020-09-07 11:10:57] Play: Game Objects has been loaded.
+[2020-09-07 11:11:25] Score Register: teamid=PT00001286, teamkey=DBPP-JWGT-UYGU-LYNU, score=20
+[2020-09-07 11:11:26] HTTPResponse: OK
+[2020-09-07 11:11:28] Main: Stage Mode
+[2020-09-07 11:12:43] Play: Game Objects has been loaded.
+[2020-09-07 11:12:59] Main: Stage Mode
+[2020-09-07 11:13:00] Play: Game Objects has been loaded.
+[2020-09-07 11:13:25] Main: Stage Mode
+[2020-09-07 11:13:26] Play: Game Objects has been loaded.
+[2020-09-07 11:13:47] Main: Stage Mode
+[2020-09-07 11:13:50] Play: Game Objects has been loaded.
+[2020-09-07 11:14:11] Score Register: teamid=PT00001286, teamkey=DBPP-JWGT-UYGU-LYNU, score=45
+[2020-09-07 11:14:11] HTTPResponse: OK
+[2020-09-07 11:14:13] Main: Stage Mode
+[2020-09-07 11:14:15] Play: Game Objects has been loaded.
+[2020-09-07 11:14:29] Main: Stage Mode
+[2020-09-07 11:15:33] Play: Game Objects has been loaded.
+[2020-09-07 11:15:52] Main: Stage Mode
+[2020-09-07 11:15:55] Play: Game Objects has been loaded.
+[2020-09-07 11:16:11] Main: Stage Mode
+[2020-09-07 11:16:12] Play: Game Objects has been loaded.
+[2020-09-07 11:16:36] Main: Stage Mode
+[2020-09-07 11:16:37] Play: Game Objects has been loaded.
+[2020-09-07 11:17:12] Main: Stage Mode
+[2020-09-07 11:17:56] Play: Game Objects has been loaded.
+[2020-09-07 11:18:01] Main: Stage Mode
+[2020-09-07 11:18:04] Play: Game Objects has been loaded.
+[2020-09-07 11:18:19] Score Register: teamid=PT00001286, teamkey=DBPP-JWGT-UYGU-LYNU, score=30
+[2020-09-07 11:18:19] HTTPResponse: OK
+[2020-09-07 11:18:25] Main: Stage Mode
+[2020-09-07 11:18:27] Play: Game Objects has been loaded.
+[2020-09-07 11:18:40] Main: Stage Mode
+[2020-09-07 11:18:41] Play: Game Objects has been loaded.
+[2020-09-07 11:18:54] Score Register: teamid=PT00001286, teamkey=DBPP-JWGT-UYGU-LYNU, score=30
+[2020-09-07 11:18:54] HTTPResponse: OK
+[2020-09-07 11:18:56] Main: Stage Mode
+[2020-09-07 11:21:17] Play: Game Objects has been loaded.
+[2020-09-07 11:22:08] Score Register: teamid=PT00001286, teamkey=DBPP-JWGT-UYGU-LYNU, score=45
+[2020-09-07 11:22:08] HTTPResponse: OK
+[2020-09-07 11:22:10] Main: Stage Mode
+[2020-09-07 11:22:12] Play: Game Objects has been loaded.
+[2020-09-07 11:24:05] Main: Stage Mode
+[2020-09-07 11:24:06] Play: Game Objects has been loaded.
+[2020-09-07 11:24:38] Main: Stage Mode
+[2020-09-07 11:24:42] Play: Game Objects has been loaded.
+[2020-09-07 11:25:21] Score Register: teamid=PT00001286, teamkey=DBPP-JWGT-UYGU-LYNU, score=35
+[2020-09-07 11:25:21] HTTPResponse: OK
+[2020-09-07 11:25:26] Main: Stage Mode
+[2020-09-07 11:25:57] Play: Game Objects has been loaded.
+[2020-09-07 11:26:14] Score Register: teamid=PT00001286, teamkey=DBPP-JWGT-UYGU-LYNU, score=35
+[2020-09-07 11:26:14] HTTPResponse: OK
+[2020-09-07 11:26:25] Main: Stage Mode
+[2020-09-07 11:27:01] Play: Game Objects has been loaded.
+[2020-09-07 11:27:20] Main: Stage Mode
+[2020-09-07 11:27:21] Play: Game Objects has been loaded.
+[2020-09-07 11:27:26] Main: Stage Mode
+[2020-09-07 11:27:27] Play: Game Objects has been loaded.
+[2020-09-07 11:28:04] Main: Stage Mode
+[2020-09-07 11:28:52] Play: Game Objects has been loaded.
+[2020-09-07 11:29:34] Score Register: teamid=PT00001286, teamkey=DBPP-JWGT-UYGU-LYNU, score=35
+[2020-09-07 11:29:35] HTTPResponse: OK
+[2020-09-07 11:29:37] Main: Stage Mode
+[2020-09-07 11:29:56] Play: Game Objects has been loaded.
+[2020-09-07 11:30:28] Score Register: teamid=PT00001286, teamkey=DBPP-JWGT-UYGU-LYNU, score=45
+[2020-09-07 11:30:28] HTTPResponse: OK
+[2020-09-07 11:30:30] Main: Stage Mode
+[2020-09-07 11:30:41] Play: Game Objects has been loaded.
+[2020-09-07 11:31:23] Score Register: teamid=PT00001286, teamkey=DBPP-JWGT-UYGU-LYNU, score=45
+[2020-09-07 11:31:24] HTTPResponse: OK
+[2020-09-07 11:31:30] Main: Stage Mode
+[2020-09-07 11:31:42] Play: Game Objects has been loaded.
+[2020-09-07 11:31:58] Score Register: teamid=PT00001286, teamkey=DBPP-JWGT-UYGU-LYNU, score=45
+[2020-09-07 11:31:58] HTTPResponse: OK
+[2020-09-07 11:32:00] Main: Stage Mode
+[2020-09-07 11:32:13] Play: Game Objects has been loaded.
+[2020-09-07 11:32:20] Main: Stage Mode
+[2020-09-07 11:32:21] Play: Game Objects has been loaded.
+[2020-09-07 11:32:36] Score Register: teamid=PT00001286, teamkey=DBPP-JWGT-UYGU-LYNU, score=45
+[2020-09-07 11:32:36] HTTPResponse: OK
+[2020-09-07 11:32:38] Main: Stage Mode
+[2020-09-07 11:32:55] Play: Game Objects has been loaded.
+[2020-09-07 11:32:58] Main: Stage Mode
+[2020-09-07 11:33:00] Play: Game Objects has been loaded.
+[2020-09-07 11:33:21] Main: Stage Mode
+[2020-09-07 11:33:22] Play: Game Objects has been loaded.
+[2020-09-07 11:33:49] Score Register: teamid=PT00001286, teamkey=DBPP-JWGT-UYGU-LYNU, score=45
+[2020-09-07 11:33:50] HTTPResponse: OK
+[2020-09-07 11:33:52] Main: Stage Mode
+[2020-09-07 11:34:05] Play: Game Objects has been loaded.
+[2020-09-07 11:34:19] Main: Stage Mode
+[2020-09-07 11:34:20] Play: Game Objects has been loaded.
+[2020-09-07 11:34:30] Main: Stage Mode
+[2020-09-07 11:34:43] Play: Game Objects has been loaded.
+[2020-09-07 11:35:07] Main: Stage Mode
+[2020-09-07 11:35:11] Play: Game Objects has been loaded.
+[2020-09-07 11:35:26] Score Register: teamid=PT00001286, teamkey=DBPP-JWGT-UYGU-LYNU, score=45
+[2020-09-07 11:35:27] HTTPResponse: OK
+[2020-09-07 11:35:29] Main: Stage Mode
+[2020-09-07 11:36:18] Play: Game Objects has been loaded.
+[2020-09-07 11:36:46] Score Register: teamid=PT00001286, teamkey=DBPP-JWGT-UYGU-LYNU, score=45
+[2020-09-07 11:36:46] HTTPResponse: OK
+[2020-09-07 11:36:48] Main: Stage Mode
+[2020-09-07 11:37:39] Play: Game Objects has been loaded.
+[2020-09-07 11:37:49] Main: Stage Mode
+[2020-09-07 11:37:52] Play: Game Objects has been loaded.
+[2020-09-07 11:38:06] Main: Stage Mode
+[2020-09-07 11:38:07] Play: Game Objects has been loaded.
+[2020-09-07 11:38:25] Main: Stage Mode
+[2020-09-07 11:41:06] Play: Game Objects has been loaded.
+[2020-09-07 11:41:57] Main: Stage Mode
+[2020-09-07 11:42:07] Play: Game Objects has been loaded.
+[2020-09-07 11:42:16] Main: Stage Mode
+[2020-09-07 11:42:17] Play: Game Objects has been loaded.
+[2020-09-07 11:42:30] Main: Stage Mode
+[2020-09-07 11:42:31] Play: Game Objects has been loaded.
+[2020-09-07 11:42:54] Main: Stage Mode
+[2020-09-07 11:43:15] Play: Game Objects has been loaded.
+[2020-09-07 11:43:47] Score Register: teamid=PT00001286, teamkey=DBPP-JWGT-UYGU-LYNU, score=30
+[2020-09-07 11:43:47] HTTPResponse: OK
+[2020-09-07 11:43:51] Main: Stage Mode
+[2020-09-07 11:44:37] Play: Game Objects has been loaded.
+[2020-09-07 11:44:58] Main: Stage Mode
+[2020-09-07 11:45:03] Play: Game Objects has been loaded.
+[2020-09-07 11:46:22] Main: Stage Mode
+[2020-09-07 11:46:23] Play: Game Objects has been loaded.
+[2020-09-07 11:46:48] Score Register: teamid=PT00001286, teamkey=DBPP-JWGT-UYGU-LYNU, score=35
+[2020-09-07 11:46:48] HTTPResponse: OK
+[2020-09-07 11:46:50] Main: Stage Mode
+[2020-09-07 11:46:54] Play: Game Objects has been loaded.
+[2020-09-07 11:47:20] Score Register: teamid=PT00001286, teamkey=DBPP-JWGT-UYGU-LYNU, score=35
+[2020-09-07 11:47:20] HTTPResponse: OK
+[2020-09-07 11:47:22] Main: Stage Mode
+[2020-09-07 11:47:33] Play: Game Objects has been loaded.
+[2020-09-07 11:48:36] Main: Stage Mode
+[2020-09-07 11:48:37] Play: Game Objects has been loaded.
+[2020-09-07 11:49:11] Score Register: teamid=PT00001286, teamkey=DBPP-JWGT-UYGU-LYNU, score=40
+[2020-09-07 11:49:11] HTTPResponse: OK
+[2020-09-07 11:49:13] Main: Stage Mode
+[2020-09-07 11:49:29] Play: Game Objects has been loaded.
+[2020-09-07 11:50:15] Score Register: teamid=PT00001286, teamkey=DBPP-JWGT-UYGU-LYNU, score=35
+[2020-09-07 11:50:16] HTTPResponse: OK
+[2020-09-07 11:50:18] Main: Stage Mode
+[2020-09-07 11:50:25] Play: Game Objects has been loaded.
+[2020-09-07 11:51:02] Score Register: teamid=PT00001286, teamkey=DBPP-JWGT-UYGU-LYNU, score=35
+[2020-09-07 11:51:02] HTTPResponse: OK
+[2020-09-07 11:51:04] Main: Stage Mode
+[2020-09-07 11:51:12] Launcher has been executed.
+[2020-09-07 11:51:12] Validation: Passed
+[2020-09-07 11:51:14] Launcher: Stage Mode Selected
+[2020-09-07 11:51:28] Authentication: teamid=PT00001286, teamkey=DBPP-JWGT-UYGU-LYNU
+[2020-09-07 11:51:29] HTTPResponse: OK
+[2020-09-07 11:51:29] Launcher: Enter Stage Mode
+[2020-09-07 11:51:29] Main: Stage Mode
+[2020-09-07 11:51:33] Play: Game Objects has been loaded.
+[2020-09-07 11:51:53] Score Register: teamid=PT00001286, teamkey=DBPP-JWGT-UYGU-LYNU, score=45
+[2020-09-07 11:51:53] HTTPResponse: OK
+[2020-09-07 11:51:55] Main: Stage Mode
+[2020-09-07 11:52:17] Play: Game Objects has been loaded.
+[2020-09-07 11:52:24] Main: Stage Mode
+[2020-09-07 11:52:25] Play: Game Objects has been loaded.
+[2020-09-07 11:52:50] Main: Stage Mode
+[2020-09-07 11:52:52] Play: Game Objects has been loaded.
+[2020-09-07 11:53:09] Score Register: teamid=PT00001286, teamkey=DBPP-JWGT-UYGU-LYNU, score=45
+[2020-09-07 11:53:09] HTTPResponse: OK
+[2020-09-07 11:53:11] Main: Stage Mode
+[2020-09-07 11:53:28] Play: Game Objects has been loaded.
+[2020-09-07 11:54:01] Score Register: teamid=PT00001286, teamkey=DBPP-JWGT-UYGU-LYNU, score=45
+[2020-09-07 11:54:01] HTTPResponse: OK
+[2020-09-07 11:54:05] Main: Stage Mode
+[2020-09-07 11:54:44] Play: Game Objects has been loaded.
+[2020-09-07 11:55:01] Main: Stage Mode
+[2020-09-07 11:55:10] Play: Game Objects has been loaded.
+[2020-09-07 11:55:37] Main: Stage Mode
+[2020-09-07 11:55:51] Play: Game Objects has been loaded.
+[2020-09-07 11:56:06] Score Register: teamid=PT00001286, teamkey=DBPP-JWGT-UYGU-LYNU, score=45
+[2020-09-07 11:56:06] HTTPResponse: OK
+[2020-09-07 11:56:09] Main: Stage Mode
+[2020-09-07 11:56:15] Play: Game Objects has been loaded.
+[2020-09-07 11:56:28] Main: Stage Mode
+[2020-09-07 11:57:22] Play: Game Objects has been loaded.
+[2020-09-07 11:57:36] Main: Stage Mode
+[2020-09-07 12:00:23] Play: Game Objects has been loaded.
+[2020-09-07 12:01:15] Score Register: teamid=PT00001286, teamkey=DBPP-JWGT-UYGU-LYNU, score=35
+[2020-09-07 12:01:15] HTTPResponse: OK
+[2020-09-07 12:01:17] Main: Stage Mode
+[2020-09-07 12:01:30] Play: Game Objects has been loaded.
+[2020-09-07 12:01:46] Score Register: teamid=PT00001286, teamkey=DBPP-JWGT-UYGU-LYNU, score=45
+[2020-09-07 12:01:46] HTTPResponse: OK
+[2020-09-07 12:01:53] Main: Stage Mode
+[2020-09-07 12:01:58] Play: Game Objects has been loaded.
+[2020-09-07 12:02:21] Main: Stage Mode
+[2020-09-07 12:02:23] Play: Game Objects has been loaded.
+[2020-09-07 12:02:49] Score Register: teamid=PT00001286, teamkey=DBPP-JWGT-UYGU-LYNU, score=50
+[2020-09-07 12:02:50] HTTPResponse: OK
+[2020-09-07 12:02:53] Main: Stage Mode
+[2020-09-07 12:03:17] Play: Game Objects has been loaded.
+[2020-09-07 12:03:45] Score Register: teamid=PT00001286, teamkey=DBPP-JWGT-UYGU-LYNU, score=50
+[2020-09-07 12:03:45] HTTPResponse: OK
+[2020-09-07 12:03:49] Main: Stage Mode
+[2020-09-07 12:03:55] Play: Game Objects has been loaded.
+[2020-09-07 12:04:12] Main: Stage Mode
+[2020-09-07 12:04:17] Play: Game Objects has been loaded.
+[2020-09-07 12:05:11] Score Register: teamid=PT00001286, teamkey=DBPP-JWGT-UYGU-LYNU, score=45
+[2020-09-07 12:05:11] HTTPResponse: OK
+[2020-09-07 12:05:13] Main: Stage Mode
+[2020-09-07 12:05:22] Play: Game Objects has been loaded.
+[2020-09-07 12:05:47] Main: Stage Mode
+[2020-09-07 12:05:48] Play: Game Objects has been loaded.
+[2020-09-07 12:06:13] Score Register: teamid=PT00001286, teamkey=DBPP-JWGT-UYGU-LYNU, score=50
+[2020-09-07 12:06:14] HTTPResponse: OK
+[2020-09-07 12:06:20] Main: Stage Mode
+[2020-09-07 12:06:27] Play: Game Objects has been loaded.
+[2020-09-07 12:06:51] Main: Stage Mode
+[2020-09-07 12:06:55] Play: Game Objects has been loaded.
+[2020-09-07 12:07:22] Score Register: teamid=PT00001286, teamkey=DBPP-JWGT-UYGU-LYNU, score=50
+[2020-09-07 12:07:22] HTTPResponse: OK
+[2020-09-07 12:07:24] Main: Stage Mode
+[2020-09-07 12:09:07] Play: Game Objects has been loaded.
+[2020-09-07 12:09:40] Score Register: teamid=PT00001286, teamkey=DBPP-JWGT-UYGU-LYNU, score=50
+[2020-09-07 12:09:41] HTTPResponse: OK
+[2020-09-07 12:09:52] Main: Stage Mode
+[2020-09-07 12:10:05] Play: Game Objects has been loaded.
+[2020-09-07 12:10:38] Main: Stage Mode
+[2020-09-07 12:10:40] Play: Game Objects has been loaded.
+[2020-09-07 12:11:16] Score Register: teamid=PT00001286, teamkey=DBPP-JWGT-UYGU-LYNU, score=45
+[2020-09-07 12:11:17] Error: System.Net.WebException: The remote server returned an error: (500)  .
+  at System.Net.HttpWebRequest.EndGetResponse (System.IAsyncResult asyncResult) [0x00058] in <245cba593bdc463bacb144cf356a8b4b>:0 
+  at System.Net.HttpWebRequest.GetResponse () [0x0000e] in <245cba593bdc463bacb144cf356a8b4b>:0 
+  at OnlineController.PostRequest (System.String url, System.String data) [0x00041] in <cfdf26f081d14cebbfe54c663579f446>:0 
+[2020-09-07 12:11:19] Main: Stage Mode
+[2020-09-07 12:11:25] Play: Game Objects has been loaded.
+[2020-09-07 12:11:51] Score Register: teamid=PT00001286, teamkey=DBPP-JWGT-UYGU-LYNU, score=50
+[2020-09-07 12:11:51] Error: System.Net.WebException: The remote server returned an error: (500)  .
+  at System.Net.HttpWebRequest.EndGetResponse (System.IAsyncResult asyncResult) [0x00058] in <245cba593bdc463bacb144cf356a8b4b>:0 
+  at System.Net.HttpWebRequest.GetResponse () [0x0000e] in <245cba593bdc463bacb144cf356a8b4b>:0 
+  at OnlineController.PostRequest (System.String url, System.String data) [0x00041] in <cfdf26f081d14cebbfe54c663579f446>:0 
+[2020-09-07 12:11:56] Main: Stage Mode
