@@ -9,7 +9,7 @@ import java.io.InputStreamReader;
  * @since 2020-09-12
  */
 //...!@BaT#*..y.abcdefghijklm
-public class Test01 {
+public class Kakao2020_01 {
 
 	public static void main(String[] args) throws Exception {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
