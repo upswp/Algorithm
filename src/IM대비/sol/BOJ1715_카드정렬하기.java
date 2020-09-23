@@ -38,19 +38,3 @@ public class BOJ1715_카드정렬하기 {
 		return cnt;
 	}
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
