@@ -1,4 +1,4 @@
-package algorithm.combination;
+package algorithm.combination.basic;
 /*
  * 오류
  */
