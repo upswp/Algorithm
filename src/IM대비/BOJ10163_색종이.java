@@ -1,5 +1,10 @@
 package IM대비;
-
+/**
+ * Samsung SW역량 테스트 IM대비 BOJ 10163 색종이
+ * 
+ * @author Park Sangwoo
+ * @since 2020-09-23
+ */
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
