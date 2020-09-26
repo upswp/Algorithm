@@ -17,7 +17,7 @@ class Point{
 	}
 }
 
-public class BOJ9205_맥주마시면서걸어가기2 {
+public class BOJ9205_맥주마시면서걸어가기 {
 	static int T ,storeNum;
 	static Queue<Point> que = new LinkedList<Point>();
 	static Point[] point;
