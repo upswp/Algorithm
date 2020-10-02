@@ -13,10 +13,17 @@ public class BOJ2839_설탕배달 {
 	static int N, min;
 
 	public static void main(String[] args) throws Exception {
+		/*초기화*/
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 		N = Integer.parseInt(br.readLine());
 		min = Integer.MAX_VALUE;
+		/*초기화*/
+		
+		/*함수호출*/
 		recursion(0, 0);
+		
+		
+		/*print*/
 		System.out.println(min==Integer.MAX_VALUE?-1:min);
 	}
 
