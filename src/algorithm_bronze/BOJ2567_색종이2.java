@@ -12,7 +12,7 @@ import java.util.Scanner;
  * @author Park Sangwoo
  * @since 2020-08-16
  */
-public class BOJ2567 {
+public class BOJ2567_색종이2 {
 	static int[][] map;
 	static int N;
 	static int[] dr = { 0, 0, 1, -1 };
