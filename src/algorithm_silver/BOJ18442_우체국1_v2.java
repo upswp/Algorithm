@@ -3,7 +3,11 @@ package algorithm_silver;
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
-
+/**
+ * SSAFY 알고리즘 과목평가 2번
+ * @author Park Sangwoo
+ * @since 2020-10-05
+ */
 public class BOJ18442_우체국1_v2 {
 	
 	static int T,V,P,L,ans,min,tmp,sum;//ans: 답변, min:최소값, tmp:마을간의 거리를 담을 변수, sum : 거리의 합

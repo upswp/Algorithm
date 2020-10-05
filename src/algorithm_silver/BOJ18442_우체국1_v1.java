@@ -3,7 +3,11 @@ package algorithm_silver;
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
-
+/**
+ * SSAFY 알고리즘 과목평가 1번
+ * @author Park Sangwoo
+ * @since 2020-10-05
+ */
 public class BOJ18442_우체국1_v1 {
 	
 	static int T,V,P,count;
