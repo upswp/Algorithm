@@ -2,7 +2,11 @@ package algorithm_silver;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
-
+/**
+ * BOJ 11726 2xn타일링
+ * @author Park Sangwoo
+ * @since 2020-10-10
+ */
 public class BOJ11726_2xn타일링 {
 	
 	static int N;
