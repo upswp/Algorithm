@@ -20,11 +20,11 @@ public class BOJ1987_알파벳 {
 	public static void main(String[] args) throws Exception {
 		/* 초기화 및 input */
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-		StringTokenizer st = new StringTokenizer(br.readLine(), " ");
+		StringTokenizer st = new StringTokenizer(br.readLine(), " "); //, " "  
 		R = Integer.parseInt(st.nextToken());
 		C = Integer.parseInt(st.nextToken());
 		map = new int[R][C];
-		visit = new boolean[26];
+		visit = new boolean[26];		
 		for (int i = 0; i < R; i++) {
 			String str = br.readLine();
 			for (int j = 0; j < C; j++) {
@@ -41,8 +41,8 @@ public class BOJ1987_알파벳 {
 	}
 
 	public static void dfs(int r, int c,int cnt) {
-		if(res < cnt)res=cnt;
-		if(cnt == 26) return;
+		if(res < cnt)res=cnt;			// res 조건 상단 기입
+		if(cnt == 26) return;			// return 조건 넣어줌
 		visit[map[r][c]] = true;
 		for (int d = 0; d < 4; d++) {
 			int nr = r + dr[d];
@@ -50,7 +50,7 @@ public class BOJ1987_알파벳 {
 			if (!check(nr, nc) && !visit[map[nr][nc]]) {
 				visit[map[nr][nc]] = true;
 				dfs(nr, nc, cnt+1);
-				visit[map[nr][nc]] = false;
+				visit[map[nr][nc]] = false;		//백트래킹
 			}
 		}
 	}
