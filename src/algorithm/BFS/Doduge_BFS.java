@@ -38,7 +38,7 @@ public class Doduge_BFS {
                     }
                 }
             }
-            System.out.println(count);
+            System.out.print(count+" ");
         }
          
         
