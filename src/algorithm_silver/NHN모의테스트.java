@@ -2,9 +2,9 @@ package algorithm_silver;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
+import java.util.Arrays;
 import java.util.LinkedList;
 import java.util.Queue;
-import java.util.StringTokenizer;
 
 public class NHN모의테스트 {
 	
@@ -14,9 +14,9 @@ public class NHN모의테스트 {
 		sizeOfMatrix = Integer.parseInt(br.readLine());
 		matrix = new int [sizeOfMatrix][sizeOfMatrix];
 		for (int i = 0; i < sizeOfMatrix; i++) {
-			StringTokenizer st = new StringTokenizer(br.readLine()," ");
+			String input = br.readLine();
 			for (int j = 0; j < sizeOfMatrix; j++) {
-				matrix[i][j] = Integer.parseInt(st.nextToken());
+				matrix[i][j] = input.charAt(j) - '0';
 			}
 		}
 		/*input end*/
@@ -31,7 +31,7 @@ public class NHN모의테스트 {
 		}
 		
 		System.out.println(cnt-1);
-		
+		int ans [] = new int [cnt+1];
 		for (int i = 2; i < cnt+1; i++) {
 			int countValue = 0;
 			for (int j = 0; j < sizeOfMatrix; j++) {
@@ -41,7 +41,11 @@ public class NHN모의테스트 {
 					}
 				}
 			}
-			System.out.print(countValue+" ");
+			ans[i-1] = countValue;
+		}
+		Arrays.sort(ans);
+		for (int j = 2; j < cnt+1; j++) {
+			System.out.println(ans[j]+" ");
 		}
 	}
 	
@@ -49,6 +53,7 @@ public class NHN모의테스트 {
 	static int dc [] = {-1,1,0,0};
 	private static void bfs(int r, int c, int cnt) {
 		Queue<int[]> que = new LinkedList<int[]>();
+		matrix[r][c]=cnt;				//******최초 방문 지점 꼭 체크하기****** 
 		que.offer(new int [] {r,c});
 		while(!que.isEmpty()) {
 			int [] crr = que.poll();
